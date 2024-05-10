@@ -1,9 +1,8 @@
 <script setup>
-import TheWelcome from '../components/TheWelcome.vue'
+// imports
+import Wizard from "@/components/Wizard.vue";
 </script>
 
 <template>
-  <main>
-    <TheWelcome />
-  </main>
+  <Wizard />
 </template>
